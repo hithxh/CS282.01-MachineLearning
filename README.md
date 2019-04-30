@@ -1,4 +1,4 @@
-This repo consists of 2 projects and my homework of the course "CS282.01 Machine Learning" in 2018 spring semester.
+This repo consists of 2 projects and my homeworks of the course "CS282.01 Machine Learning" in 2018 spring semester.
 
 The discription of this project can be seen in the file "Data_Science_Case_Study.pdf"
 ## Proj1: 
